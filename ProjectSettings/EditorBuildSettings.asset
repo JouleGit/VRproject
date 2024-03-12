@@ -5,10 +5,17 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Usable Scene/Industrial Incident.unity
+    guid: 517859cfbf66c6d47a2abc6784670905
   m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: edb4d7282364064459a2cc264ac1a71b,
+      type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
+      guid: 7a2801e048f263a41919d9657815a458, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b72e4bfd17a2ebc41a82aca2cb233dfb,
       type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 466a073ac2435af4e84cb348354b038a,
